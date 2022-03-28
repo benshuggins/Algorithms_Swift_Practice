@@ -3,5 +3,6 @@
     <pages>
         <page name='StringsUnique#1'/>
         <page name='PalindromeString#2'/>
+        <page name='MostCommonElementArray'/>
     </pages>
 </playground>
