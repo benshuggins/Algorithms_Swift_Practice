@@ -4,5 +4,6 @@
         <page name='StringsUnique#1'/>
         <page name='PalindromeString#2'/>
         <page name='MostCommonElementArray'/>
+        <page name='Collections-CountTheNumbers(37)'/>
     </pages>
 </playground>
