@@ -5,5 +5,7 @@
         <page name='PalindromeString#2'/>
         <page name='MostCommonElementArray'/>
         <page name='Collections-CountTheNumbers(37)'/>
+        <page name='Collections-FindTheSmallest(38)'/>
+        <page name='ReverseLinkedList'/>
     </pages>
 </playground>
